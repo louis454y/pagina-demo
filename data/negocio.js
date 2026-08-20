@@ -1,0 +1,254 @@
+const negocio = {
+
+    // =========================================
+    // IDENTIDAD DEL NEGOCIO
+    // =========================================
+
+    info: {
+
+        nombre: "Beauty Caprice",
+
+        eslogan: "Tu belleza, tu esencia.",
+
+        descripcion:
+            "Un espacio creado para resaltar tu belleza, cuidar de ti y convertir cada visita en una experiencia especial.",
+
+        logo: "assets/logo.jpg",
+
+        heroImg: "assets/hero.jpg"
+
+    },
+
+
+    // =========================================
+    // HERO
+    // =========================================
+
+    hero: {
+
+        // true  = utilizar video
+        // false = utilizar únicamente imagen
+        usarVideo: true,
+
+        // Video principal del Hero
+        video: "assets/hero.mp4",
+
+        // Imagen utilizada como respaldo
+        imagen: "assets/hero.jpg"
+
+    },
+
+
+    // =========================================
+    // COLORES DE LA MARCA
+    // =========================================
+
+    colores: {
+
+        principal: "#171515",
+
+        secundario: "#c9a96e",
+
+        fondo: "#faf9f7",
+
+        superficie: "#ffffff",
+
+        texto: "#242222",
+
+        textoSuave: "#77716d"
+
+    },
+
+
+    // =========================================
+    // MÓDULOS
+    // =========================================
+
+    modulos: {
+
+        hero: true,
+
+        nosotros: true,
+
+        servicios: true,
+
+        galeria: true,
+
+        profesionales: true,
+
+        testimonios: true,
+
+        contacto: true,
+
+        whatsapp: true
+
+    },
+
+
+    // =========================================
+    // SERVICIOS
+    // =========================================
+
+    servicios: [
+
+        {
+            titulo: "Corte y estilismo",
+
+            descripcion:
+                "Diseñamos un estilo que resalte tu personalidad y esencia.",
+
+            imagen:
+                "assets/servicios/servicio-1.jpg"
+        },
+
+
+        {
+            titulo: "Coloración",
+
+            descripcion:
+                "Técnicas de color pensadas para transformar y cuidar tu cabello.",
+
+            imagen:
+                "assets/servicios/servicio-2.jpg"
+        },
+
+
+        {
+            titulo: "Manicure & Pedicure",
+
+            descripcion:
+                "Cuidado y detalle para unas manos y pies impecables.",
+
+            imagen:
+                "assets/servicios/servicio-3.jpg"
+        }
+
+    ],
+
+
+    // =========================================
+    // GALERÍA
+    // =========================================
+
+    galeria: [
+
+        "assets/galeria/galeria-1.JPG",
+
+        "assets/galeria/galeria-2.jpg",
+
+        "assets/galeria/galeria-3.jpg",
+
+        "assets/galeria/galeria-4.jpg",
+
+        "assets/galeria/galeria-5.jpg",
+
+        "assets/galeria/galeria-6.jpg"
+
+    ],
+
+
+    // =========================================
+    // PROFESIONALES
+    // =========================================
+
+    profesionales: [
+
+        {
+            nombre: "Profesional Beauty",
+
+            cargo: "Especialista en belleza",
+
+            imagen:
+                "assets/profesionales/profesional-1.jpg"
+        },
+
+
+        {
+            nombre: "Especialista Beauty",
+
+            cargo: "Stylist",
+
+            imagen:
+                "assets/profesionales/profesional-2.jpg"
+        },
+
+
+        {
+            nombre: "Beauty Expert",
+
+            cargo: "Especialista",
+
+            imagen:
+                "assets/profesionales/profesional-3.jpg"
+        }
+
+    ],
+
+
+    // =========================================
+    // TESTIMONIOS
+    // =========================================
+
+    testimonios: [
+
+        {
+            texto:
+                "Una experiencia increíble. El servicio, la atención y cada detalle hicieron que quisiera volver.",
+
+            nombre: "Cliente Beauty"
+        },
+
+
+        {
+            texto:
+                "El lugar es hermoso y la atención es excelente. Me encantó el resultado.",
+
+            nombre: "Cliente Beauty"
+        },
+
+
+        {
+            texto:
+                "Definitivamente un espacio para desconectarse y disfrutar.",
+
+            nombre: "Cliente Beauty"
+        }
+
+    ],
+
+
+    // =========================================
+    // CONTACTO
+    // =========================================
+
+    contacto: {
+
+        whatsapp: "573012261366",
+
+        mensajeWhatsapp:
+            "Hola Beauty Caprice, quiero información sobre sus servicios.",
+
+        instagram:
+            "https://www.instagram.com/beautycapricee/?hl=es",
+
+        facebook:
+            "https://www.facebook.com/Beautycapriceee/?locale=es_LA",
+
+        telefono:
+            "+57 301 226 1366",
+
+        email:
+            "hola@beautystudio.com",
+
+        direccion:
+            "Cl. 72 #47-54, Barranquilla, Atlántico",
+
+        horarios:
+            "Lunes a viernes · 7:00 AM - 7:00 PM | Sábado · 8:00 AM - 7:00 PM | Domingo · 9:00 AM - 5:00 PM",
+
+        mapa:
+            ""
+
+    }
+
+};

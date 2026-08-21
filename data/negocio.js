@@ -247,7 +247,7 @@ nosotros: {
         whatsapp: "573012261366",
 
         mensajeWhatsapp:
-            "Hola Beauty Caprice, quiero información sobre sus servicios por favor.",
+            "Holaa Beauty Caprice, quiero información sobre sus servicios por favor.",
 
         instagram:
             "https://www.instagram.com/beautycapricee/",
@@ -259,7 +259,7 @@ nosotros: {
             "573012261366",
 
         email:
-            "hola@beautycaprice.com.",
+            "holaa@beautycaprice.com.",
 
         direccion:
             "📍 Cl. 72 #47-54, Norte-Centro Histórico, Barranquilla, Atlántico.",

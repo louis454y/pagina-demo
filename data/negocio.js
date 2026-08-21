@@ -5,7 +5,7 @@ const negocio = {
     // =========================================
 info: {
 
-    nombre: "Beia Beauty Space",
+    nombre: "Beauty Caprice",
 
     eslogan: "Tu belleza, tu esencia.",
 
@@ -238,38 +238,36 @@ nosotros: {
     ],
 
 
-    // =========================================
-    // CONTACTO
-    // =========================================
+ // =========================================
+// CONTACTO
+// =========================================
 
-    contacto: {
+contacto: {
 
-        whatsapp: "573216530020",
+    whatsapp: "573012261366",
 
-        mensajeWhatsapp:
-            "Hola Beia Beauty Space, quiero información sobre sus servicios por favor.",
+    mensajeWhatsapp:
+        "Holaa Beia Beauty Space, quiero información sobre sus servicios por favor.",
 
-        instagram:
-            "https://www.instagram.com/beiabeauty_/",
+    instagram:
+        "https://www.instagram.com/beiabeauty_/",
 
-        facebook:
-            "https://www.facebook.com/BeiaBeautySpace/?locale=es_LA",
+    facebook:
+        "https://www.facebook.com/Beautycapriceee/?locale=es_LA",
 
-        telefono:
-            "573216530020",
+    telefono:
+        "573216530020",
 
-        email:
-            "hola@beautystudio.com",
+    email:
+        "hola@beautystudio.com",
 
-        direccion:
-            "📍Cra. 59B #79-61, El Golf, Barranquilla",
+    direccion:
+        "📍 Barranquilla Cra 59b #79-61",
 
-        horarios:
-            "Lunes a viernes · 7:00 AM - 7:00 PM | Sábado · 8:00 AM - 7:00 PM | Domingo · 9:00 AM - 5:00 PM",
+    horarios:
+        "Lunes a viernes · 7:00 AM - 7:00 PM | Sábado · 7:00 AM - 7:00 PM | Domingo · Cerrado",
 
-        mapa:
-            ""
+    mapa:
+        ""
 
-    }
-
-};
+}

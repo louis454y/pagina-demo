@@ -153,7 +153,7 @@ nosotros: {
 
     galeria: [
 
-        "assets/galeria/galeria-1.JPG",
+        "assets/galeria/galeria-1.jpg",
 
         "assets/galeria/galeria-2.jpg",
 
@@ -163,7 +163,7 @@ nosotros: {
 
         "assets/galeria/galeria-5.jpg",
 
-        "assets/galeria/galeria-1.jpg",
+        "assets/galeria/galeria-final.jpg",
 
     ],
 

@@ -597,7 +597,7 @@ function renderizarGaleria() {
                     alt="Galería ${negocio.info.nombre} ${index + 1}"
                     loading="lazy"
                 >
-
+ 
             `;
 
 

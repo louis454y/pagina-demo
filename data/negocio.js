@@ -259,7 +259,7 @@ nosotros: {
             "573012261366",
 
         email:
-            "hola@beautycaprice.com",
+            "hola@beautycaprice.com.co",
 
         direccion:
             "📍 Cl. 72 #47-54, Norte-Centro Histórico, Barranquilla, Atlántico.",

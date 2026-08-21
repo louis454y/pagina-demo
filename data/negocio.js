@@ -247,7 +247,7 @@ contacto: {
     whatsapp: "573012261366",
 
     mensajeWhatsapp:
-        "Holaa Beia Beauty Space, quiero información sobre sus servicios por favor.",
+        "Hola Beia Beauty Space, quiero información sobre sus servicios por favor.",
 
     instagram:
         "https://www.instagram.com/beiabeauty_/",
@@ -267,7 +267,9 @@ contacto: {
     horarios:
         "Lunes a viernes · 7:00 AM - 7:00 PM | Sábado · 7:00 AM - 7:00 PM | Domingo · Cerrado",
 
-    mapa:
+        mapa:
         ""
 
-}
+    }
+
+};

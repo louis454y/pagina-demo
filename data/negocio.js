@@ -163,7 +163,7 @@ nosotros: {
 
         "assets/galeria/galeria-5.jpg",
 
-        "assets/galeria/galeria-1-temp.jpg",
+        "assets/galeria/galeria-1.jpg",
 
     ],
 

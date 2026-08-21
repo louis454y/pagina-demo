@@ -3,22 +3,22 @@ const negocio = {
     // =========================================
     // IDENTIDAD DEL NEGOCIO
     // =========================================
+info: {
 
-    info: {
+    nombre: "Beia Beauty Space",
 
-        nombre: "Beauty Caprice",
+    eslogan: "Tu belleza, tu esencia.",
 
-        eslogan: "Tu belleza, tu esencia.",
+    descripcion:
+        "Un espacio creado para resaltar tu belleza, cuidar de ti y convertir cada visita en una experiencia especial.",
 
-        descripcion:
-            "Un espacio creado para resaltar tu belleza, cuidar de ti y convertir cada visita en una experiencia especial.",
+    logo: "assets/logo.jpg",
 
-        logo: "assets/logo.jpg",
+    heroImg: "assets/hero.jpg",
 
-        heroImg: "assets/hero.jpg"
+    nosotrosImg: "assets/nosotros.jpg"
 
-    },
-
+},
 
     // =========================================
     // HERO
@@ -35,6 +35,10 @@ const negocio = {
 
         // Imagen utilizada como respaldo
         imagen: "assets/hero.jpg"
+
+        
+
+
 
     },
 
@@ -83,6 +87,23 @@ const negocio = {
         whatsapp: true
 
     },
+
+
+    // =========================================
+// NOSOTROS
+// =========================================
+
+nosotros: {
+
+    titulo: "Belleza que refleja tu esencia.",
+
+    descripcion:
+        "En Beia Beauty Space creamos experiencias de belleza pensadas para que cada persona se sienta especial, cuidada y auténtica.",
+
+    imagen:
+        "assets/nosotros.jpg"
+
+},
 
 
     // =========================================
@@ -223,25 +244,25 @@ const negocio = {
 
     contacto: {
 
-        whatsapp: "573012261366",
+        whatsapp: "573216530020",
 
         mensajeWhatsapp:
-            "Hola Beauty Caprice, quiero información sobre sus servicios.",
+            "Hola Beia Beauty Space, quiero información sobre sus servicios.",
 
         instagram:
-            "https://www.instagram.com/beautycapricee/?hl=es",
+            "https://www.instagram.com/beiabeauty_/",
 
         facebook:
-            "https://www.facebook.com/Beautycapriceee/?locale=es_LA",
+            "https://www.facebook.com/BeiaBeautySpace/?locale=es_LA",
 
         telefono:
-            "+57 301 226 1366",
+            "573216530020",
 
         email:
             "hola@beautystudio.com",
 
         direccion:
-            "Cl. 72 #47-54, Barranquilla, Atlántico",
+            "📍Cra. 59B #79-61, El Golf, Barranquilla",
 
         horarios:
             "Lunes a viernes · 7:00 AM - 7:00 PM | Sábado · 8:00 AM - 7:00 PM | Domingo · 9:00 AM - 5:00 PM",

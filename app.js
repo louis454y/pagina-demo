@@ -452,12 +452,37 @@ function renderizarNosotros() {
             "[data-about-description]"
         );
 
+    const imagen =
+        document.querySelector(
+            "[data-about-image]"
+        );
 
-    if (!descripcion) return;
+
+    /* -----------------------------------------
+       DESCRIPCIÓN
+    ----------------------------------------- */
+
+    if (descripcion) {
+
+        descripcion.textContent =
+            negocio.info.descripcion;
+
+    }
 
 
-    descripcion.textContent =
-        negocio.info.descripcion;
+    /* -----------------------------------------
+       IMAGEN
+    ----------------------------------------- */
+
+    if (imagen) {
+
+        imagen.src =
+            negocio.info.nosotrosImg;
+
+        imagen.alt =
+            `Experiencia de ${negocio.info.nombre}`;
+
+    }
 
 }
 

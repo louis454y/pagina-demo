@@ -247,7 +247,7 @@ nosotros: {
         whatsapp: "573012261366",
 
         mensajeWhatsapp:
-            "Hola Beauty Caprice, quiero información sobre sus servicios.",
+            "Hola Beauty Caprice, quiero información sobre sus servicios por favor.",
 
         instagram:
             "https://www.instagram.com/beautycapricee/",
@@ -273,3 +273,5 @@ nosotros: {
     }
 
 };
+
+ 

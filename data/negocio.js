@@ -244,7 +244,7 @@ nosotros: {
 
 contacto: {
 
-    whatsapp: "573012261366",
+    whatsapp: "573216530020",
 
     mensajeWhatsapp:
         "Hola Beia Beauty Space, quiero información sobre sus servicios por favor.",

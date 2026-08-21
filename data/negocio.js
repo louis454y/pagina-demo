@@ -5,7 +5,7 @@ const negocio = {
     // =========================================
 info: {
 
-    nombre: "Beauty Caprice",
+    nombre: "Beia Beauty Space",
 
     eslogan: "Tu belleza, tu esencia.",
 

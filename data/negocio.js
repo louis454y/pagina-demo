@@ -244,7 +244,7 @@ nosotros: {
 
     contacto: {
 
-        whatsapp: "573012261366.",
+        whatsapp: "573012261366",
 
         mensajeWhatsapp:
             "Hola Beauty Caprice, quiero información sobre sus servicios.",
@@ -256,7 +256,7 @@ nosotros: {
             "https://www.facebook.com/Beautycapriceee/?locale=es_LA",
 
         telefono:
-            "573012261366.",
+            "573012261366",
 
         email:
             "hola@beautycaprice.com",
